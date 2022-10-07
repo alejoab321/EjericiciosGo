@@ -1,7 +1,7 @@
 package invoice;
 import (
 	"github.com/alejoab321/01-Ejercicio/pkg/customer"
-	"github.com/alejoab321/01-Ejerciciopkg/invoiceitem"
+	"github.com/alejoab321/01-Ejercicio/pkg/invoiceitem"
 )
 
 type Invoice struct {
